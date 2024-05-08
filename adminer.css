@@ -553,7 +553,7 @@ select:has(option[value=""]:checked) {
 	text-align: right;
 	padding-right: 30px;
 	font-family: "Geist Sans", "MS Shell Dlg 2", Roboto, Helvetica, Arial, sans-serif;
-	margin-top: 1px;
+	margin-top: 2px;
 }
 .rtl .logout input {
 	text-align: right;
