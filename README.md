@@ -9,7 +9,7 @@ Simple Theme is a clean and straightforward theme/skin designed for professional
 ### Installation
 
 1. Get a copy of [Adminer](https://www.adminer.org/)
-2. Download the `adminer.css` from [here](https://raw.githubusercontent.com/devknown/simple-theme/master/adminer.css?version=1.0.02)
+2. Download the `adminer.css` from [here](https://raw.githubusercontent.com/devknown/simple-theme/master/adminer.css?version=1.0.03)
 3. Place `adminer.css` file in the directory that contains Adminer on your web server.
 
 ### Preview
