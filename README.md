@@ -1,4 +1,4 @@
-# Simple Theme - Clean and Simple Adminer Theme
+# Simple Theme - Clean, minimalist theme for Adminer
 
 ![Simple Theme for Adminer Cover](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/cover.webp)
 
@@ -14,12 +14,12 @@ Simple Theme is a clean and straightforward theme/skin designed for professional
 
 ### Preview
 
+#### Select (with/without pagination)
+![Simple Theme for Adminer - Select with pagination](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select-pagination.webp)
+![Simple Theme for Adminer - Select](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select.webp)
+
 #### Tables
 ![Simple Theme for Adminer - Tables](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/tables.webp)
-
-#### Select (with/without pagination)
-![Simple Theme for Adminer - Select](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select.webp)
-![Simple Theme for Adminer - Select with pagination](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select-pagination.webp)
 
 #### RTL (right-to-left)
 ![Simple Theme for Adminer - RTL support](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/rtl.webp)
