@@ -1,6 +1,6 @@
 # Simple Theme - Clean, minimalist theme for Adminer
 
-![Simple Theme for Adminer Cover](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/cover.webp)
+![Simple Theme for Adminer Cover](https://raw.githubusercontent.com/devknown/simple-theme/main/screenshots/cover.webp)
 
 ## Introduction
 
@@ -15,21 +15,21 @@ Simple Theme is a clean and straightforward theme/skin designed for professional
 ### Preview
 
 #### Select (with/without pagination)
-![Simple Theme for Adminer - Select with pagination](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select-pagination.webp)
-![Simple Theme for Adminer - Select](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select.webp)
+![Simple Theme for Adminer - Select with pagination](https://raw.githubusercontent.com/devknown/simple-theme/main/screenshots/select-pagination.webp)
+![Simple Theme for Adminer - Select](https://raw.githubusercontent.com/devknown/simple-theme/main/screenshots/select.webp)
 
 #### Tables
-![Simple Theme for Adminer - Tables](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/tables.webp)
+![Simple Theme for Adminer - Tables](https://raw.githubusercontent.com/devknown/simple-theme/main/screenshots/tables.webp)
 
 #### RTL (right-to-left)
-![Simple Theme for Adminer - RTL support](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/rtl.webp)
+![Simple Theme for Adminer - RTL support](https://raw.githubusercontent.com/devknown/simple-theme/main/screenshots/rtl.webp)
 
 #### Schema
-![Simple Theme for Adminer - Schema](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/schema.webp)
+![Simple Theme for Adminer - Schema](https://raw.githubusercontent.com/devknown/simple-theme/main/screenshots/schema.webp)
 
 ### License
 
-Simple Theme for Adminer is licensed under the [MIT License](https://github.com/devknown/simple-theme/blob/master/LICENSE).
+Simple Theme for Adminer is licensed under the [MIT License](https://github.com/devknown/simple-theme/blob/main/LICENSE).
 
 ### Credits
 
