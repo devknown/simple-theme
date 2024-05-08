@@ -1,6 +1,6 @@
 # Simple Theme - Clean, minimalist theme for Adminer
 
-![Simple Theme for Adminer Cover](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/cover.webp)
+![Simple Theme for Adminer Cover](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/cover.png)
 
 ## Introduction
 
@@ -9,23 +9,27 @@ Simple Theme is a clean and straightforward theme/skin designed for professional
 ### Installation
 
 1. Get a copy of [Adminer](https://www.adminer.org/)
-2. Download the `adminer.css` from [here](https://raw.githubusercontent.com/devknown/simple-theme/master/adminer.css?version=1.0.05)
+2. Download the `adminer.css` from [here](https://raw.githubusercontent.com/devknown/simple-theme/master/adminer.css?version=1.0.06)
 3. Place `adminer.css` file in the directory that contains Adminer on your web server.
 
 ### Preview
 
 #### Select (with/without pagination)
-![Simple Theme for Adminer - Select with pagination](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select-pagination.webp)
-![Simple Theme for Adminer - Select](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select.webp)
-
-#### Tables
-![Simple Theme for Adminer - Tables](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/tables.webp)
-
-#### RTL (right-to-left)
-![Simple Theme for Adminer - RTL support](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/rtl.webp)
+![Simple Theme for Adminer - Select with pagination](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select.png)
+![Simple Theme for Adminer - Select](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select-filter.png)
+![Simple Theme for Adminer - Create table](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/create-table.png)
 
 #### Schema
-![Simple Theme for Adminer - Schema](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/schema.webp)
+![Simple Theme for Adminer - Schema](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/schema.png)
+
+#### Tables
+![Simple Theme for Adminer - Tables](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/tables.png)
+
+#### Query
+![Simple Theme for Adminer - Query](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/query.png)
+
+#### RTL (right-to-left)
+![Simple Theme for Adminer - RTL support](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/rtl.png)
 
 ### License
 
