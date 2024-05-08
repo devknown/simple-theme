@@ -14,7 +14,7 @@ Simple Theme is a clean and straightforward theme/skin designed for professional
 
 ### Preview
 
-#### Select (with/without pagination)
+#### Select (filters + with & without pagination)
 ![Simple Theme for Adminer - Select with pagination](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select.png)
 ![Simple Theme for Adminer - Select](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/select-filter.png)
 ![Simple Theme for Adminer - Create table](https://raw.githubusercontent.com/devknown/simple-theme/master/screenshots/create-table.png)
