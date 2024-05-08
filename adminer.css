@@ -19,7 +19,7 @@ Update from https://github.com/devknown/simple-theme/raw/master/adminer.css
     --accent1: hsl(240, 4.8%, 95.9%);
     --accent2: hsl(240, 5.9%, 10%);
     --back-title: hsl(240, 10%, 3.9%);
-    --back-sidebar: hsl(240, 10%, 3.9%);
+	--back-sidebar: hsl(240, 3.7%, 15.9%);
     --back-header: hsl(240, 3.7%, 15.9%);
     --back-breadcrumb: hsl(240, 8%, 12%);
     --back-main: hsl(0, 0%, 98%);
@@ -553,6 +553,7 @@ select:has(option[value=""]:checked) {
 	text-align: right;
 	padding-right: 30px;
 	font-family: "Geist Sans", "MS Shell Dlg 2", Roboto, Helvetica, Arial, sans-serif;
+	margin-top: 1px;
 }
 .rtl .logout input {
 	text-align: right;
@@ -571,6 +572,7 @@ select:has(option[value=""]:checked) {
 	text-align: right;
 	padding-right: 40px;
 	font-family: "Geist Sans", "MS Shell Dlg 2", Roboto, Helvetica, Arial, sans-serif;
+	padding-top: 2.5px;
 }
 .rtl #lang {
     left: 0px;
@@ -605,6 +607,9 @@ select:has(option[value=""]:checked) {
     top: 0;
     height: 2em;
     width: 100%;
+}
+#lang{
+	height: calc(2em - 2.5px);
 }
 #lang:focus,
 #lang:hover,
