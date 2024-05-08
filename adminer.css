@@ -349,6 +349,7 @@ h2 {
     border-bottom-style: none;
 }
 #dbs select,
+#menu #tables li a.view,
 #menu #tables li a.select,
 #menu #tables li a.structure,
 #menu .links a,
@@ -489,7 +490,7 @@ h2 {
 }
 .rtl h2,
 h2 {
-    margin: 0 -20px 1em;
+    margin: 0 -20px 20px;
 }
 h2 + *,
 h2 + * > :first-child,
@@ -657,7 +658,24 @@ select:has(option[value=""]:checked) {
 }
 #menu #tables li a.structure {
     padding: 4px 10px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 210px;
 }
+#menu #tables li a.view{
+	color: var(--back-button-disabled);
+	padding: 4px 10px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 210px;
+	text-decoration: none !important;
+	font-style: normal;
+}
+#menu #tables li a.view.active,
+#menu #tables li a.view:focus,
+#menu #tables li a.view:hover,
 #menu #tables li a.select.active,
 #menu #tables li a.select:focus,
 #menu #tables li a.select:hover,
@@ -666,7 +684,7 @@ select:has(option[value=""]:checked) {
 #menu #tables li a.structure:hover {
     background: rgba(255, 255, 255, 0.1);
 }
-#dbs:before,
+#dbs:before, 
 #tables a.select {
     height: 1.3em;
     display: inline-block;
