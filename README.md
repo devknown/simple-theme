@@ -12,7 +12,7 @@ Simple Theme is a clean and straightforward theme/skin designed for professional
 2. Download the `adminer.css` from [here](https://raw.githubusercontent.com/devknown/simple-theme/master/adminer.css?version=1.0.06)
 3. Put the file `adminer.css` alongside `adminer.php` or in the same directory that contains Adminer on your web server.
 
-> **_NOTE:_**   Adminer is beter used for development environments, not for production purposes.
+> **_NOTE:_**   Adminer is better used for development environments, not for production purposes.
 
 ### Preview
 
