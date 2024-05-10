@@ -520,7 +520,7 @@ code.jush-sql {
 #tables a.select {
     color: transparent;
 }
-select:has(option[value=""]:checked) {
+select:has(option:empty:checked) {
 	background-repeat: no-repeat;
 	background-position: center center;
   	background-size: 20px auto;
