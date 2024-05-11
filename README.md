@@ -40,5 +40,3 @@ Simple Theme for Adminer is licensed under the [MIT License](https://github.com/
 ### Credits
 
 Forked from [Steve Copley's theme](https://github.com/stevecopley/adminer).
-
-![](https://komarev.com/ghpvc/?username=devknown/simple-theme&label=PROJECT+VIEWS)
